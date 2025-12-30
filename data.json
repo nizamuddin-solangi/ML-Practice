@@ -1,0 +1,22 @@
+[
+  { "Name": "Nizamuddin", "Hours Studied": 3, "Sleep Hours": 10, "Score": 79 },
+  { "Name": "Aiesh", "Hours Studied": 2, "Sleep Hours": 11, "Score": 68 },
+  { "Name": "Usaid", "Hours Studied": 5, "Sleep Hours": 8, "Score": 83 },
+  { "Name": "Hamdan", "Hours Studied": 1, "Sleep Hours": 9, "Score": 58 },
+  { "Name": "Ali", "Hours Studied": 4, "Sleep Hours": 7, "Score": 81 },
+  { "Name": "Ahmed", "Hours Studied": 6, "Sleep Hours": 6, "Score": 88 },
+  { "Name": "Sara", "Hours Studied": 5, "Sleep Hours": 7, "Score": 85 },
+  { "Name": "Ayesha", "Hours Studied": 2, "Sleep Hours": 9, "Score": 65 },
+  { "Name": "Bilal", "Hours Studied": 3, "Sleep Hours": 8, "Score": 72 },
+  { "Name": "Zain", "Hours Studied": 1, "Sleep Hours": 10, "Score": 55 },
+  { "Name": "Hassan", "Hours Studied": 4, "Sleep Hours": 7, "Score": 78 },
+  { "Name": "Fatima", "Hours Studied": 6, "Sleep Hours": 6, "Score": 90 },
+  { "Name": "Umar", "Hours Studied": 5, "Sleep Hours": 8, "Score": 84 },
+  { "Name": "Noor", "Hours Studied": 3, "Sleep Hours": 9, "Score": 70 },
+  { "Name": "Saad", "Hours Studied": 2, "Sleep Hours": 8, "Score": 66 },
+  { "Name": "Hira", "Hours Studied": 4, "Sleep Hours": 7, "Score": 80 },
+  { "Name": "Asad", "Hours Studied": 6, "Sleep Hours": 5, "Score": 89 },
+  { "Name": "Iqra", "Hours Studied": 3, "Sleep Hours": 8, "Score": 74 },
+  { "Name": "Rayan", "Hours Studied": 1, "Sleep Hours": 11, "Score": 52 },
+  { "Name": "Maham", "Hours Studied": 5, "Sleep Hours": 7, "Score": 86 }
+]

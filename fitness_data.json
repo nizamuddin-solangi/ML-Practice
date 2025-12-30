@@ -1,0 +1,12 @@
+[
+    {"Name": "Ali", "Workout_Hours": 5, "Sleep_Hours": 7, "Junk_Food_Meals": 2, "Fitness_Level": "High"},
+    {"Name": "Ahmed", "Workout_Hours": 1, "Sleep_Hours": 6, "Junk_Food_Meals": 5, "Fitness_Level": "Low"},
+    {"Name": "Sara", "Workout_Hours": 4, "Sleep_Hours": 8, "Junk_Food_Meals": 1, "Fitness_Level": "High"},
+    {"Name": "Ayesha", "Workout_Hours": 2, "Sleep_Hours": 7, "Junk_Food_Meals": 4, "Fitness_Level": "Low"},
+    {"Name": "Usaid", "Workout_Hours": 6, "Sleep_Hours": 7, "Junk_Food_Meals": 1, "Fitness_Level": "High"},
+    {"Name": "Hamdan", "Workout_Hours": 1, "Sleep_Hours": 5, "Junk_Food_Meals": 6, "Fitness_Level": "Low"},
+    {"Name": "Zain", "Workout_Hours": 3, "Sleep_Hours": 6, "Junk_Food_Meals": 3, "Fitness_Level": "Low"},
+    {"Name": "Hassan", "Workout_Hours": 5, "Sleep_Hours": 8, "Junk_Food_Meals": 2, "Fitness_Level": "High"},
+    {"Name": "Fatima", "Workout_Hours": 4, "Sleep_Hours": 7, "Junk_Food_Meals": 2, "Fitness_Level": "High"},
+    {"Name": "Umar", "Workout_Hours": 2, "Sleep_Hours": 6, "Junk_Food_Meals": 4, "Fitness_Level": "Low"}
+]
