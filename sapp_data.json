@@ -1,0 +1,14 @@
+[
+    {"Name": "Ali", "Hours_Studied": 2, "Sleep_Hours": 6, "Attendance": 70, "Score": 65},
+    {"Name": "Ahmed", "Hours_Studied": 5, "Sleep_Hours": 7, "Attendance": 85, "Score": 82},
+    {"Name": "Sara", "Hours_Studied": 6, "Sleep_Hours": 8, "Attendance": 90, "Score": 88},
+    {"Name": "Ayesha", "Hours_Studied": 1, "Sleep_Hours": 6, "Attendance": 60, "Score": 55},
+    {"Name": "Usaid", "Hours_Studied": 4, "Sleep_Hours": 7, "Attendance": 80, "Score": 78},
+    {"Name": "Hamdan", "Hours_Studied": 2, "Sleep_Hours": 5, "Attendance": 65, "Score": 60},
+    {"Name": "Zain", "Hours_Studied": 3, "Sleep_Hours": 6, "Attendance": 75, "Score": 70},
+    {"Name": "Hassan", "Hours_Studied": 5, "Sleep_Hours": 7, "Attendance": 88, "Score": 85},
+    {"Name": "Fatima", "Hours_Studied": 6, "Sleep_Hours": 8, "Attendance": 92, "Score": 90},
+    {"Name": "Umar", "Hours_Studied": 1, "Sleep_Hours": 6, "Attendance": 58, "Score": 50},
+    {"Name": "Noor", "Hours_Studied": 4, "Sleep_Hours": 7, "Attendance": 82, "Score": 80},
+    {"Name": "Saad", "Hours_Studied": 2, "Sleep_Hours": 6, "Attendance": 68, "Score": 62}
+]
